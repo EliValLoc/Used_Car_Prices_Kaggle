@@ -23,9 +23,6 @@ Competition page: [Assignment 3 DSBA on Kaggle](https://www.kaggle.com/competiti
 
 ```text
 .
-├── data/
-│   ├── train.csv
-│   └── test.csv
 ├── notebook/
 │   └── CreateKaggleSubmission_DSBA_2024.ipynb
 ├── presentation/
